@@ -1,0 +1,22 @@
+.row{
+    padding: 150px;
+}
+div{
+    background-color: #FDFEFE;
+}
+h1, h3{
+     display:inline;
+    
+  
+}
+
+#exp{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     text-align: center;
+   }
+
+   #edu{
+    text-align: center;   
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}

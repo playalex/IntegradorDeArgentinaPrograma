@@ -1,0 +1,21 @@
+.row{
+ padding: 115px;
+}
+
+div{
+    background-color:#FDFEFE;
+    text-align: center;
+}
+
+/*etiqueta nombre*/
+
+
+#nombre{
+    font-weight: bold;
+   text-align: center;
+}
+
+
+
+
+
